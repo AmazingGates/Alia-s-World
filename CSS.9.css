@@ -23,6 +23,11 @@
     background-image: url('Alia\ 22.png');
 }
 
+body {
+    background-image: url("Alia\ 12.png");
+    background-attachment: scroll;
+}
+
 h2 {
     text-align: center;
     color: red;
